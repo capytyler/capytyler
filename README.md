@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; NEXT.JS| REACT| HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; NEXT.JS| REACT| HTML | CSS | JavaScript | TypeScript| Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Sanity
 - 🔧 &nbsp; PyCharm | Visual Studio code | Matlab
 - 🖥 &nbsp;  Illustrator | Photoshop | Procreate
